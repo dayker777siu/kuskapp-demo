@@ -1,0 +1,16 @@
+{
+  "name": "KuskApp · Conecta · Apoya · Intercambia",
+  "short_name": "KuskApp",
+  "description": "Red vecinal: servicios del barrio, favores solidarios y apoyo en emergencias entre vecinos verificados.",
+  "lang": "es-PE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#064e3b",
+  "theme_color": "#065f46",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}
